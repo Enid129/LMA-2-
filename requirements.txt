@@ -1,8 +1,5 @@
 fastapi
 uvicorn[standard]
-requests
-packaging
-aiohttp
-httpx
-python-dotenv
-cloudscraper
+pydantic
+python-multipart
+apscheduler
